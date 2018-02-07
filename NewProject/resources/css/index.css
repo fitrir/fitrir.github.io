@@ -2,28 +2,28 @@
     font-family: "Bree Serif", Arial, sans-serif;
 }
 
+
 body {
     margin: 0 15%;
-    background-color: #f9f4f5;
+    background-image: url(../background.png);
+    background-size: cover;
 }
 h1 {
+    color: #413335;
     font-weight: 700;
     font-size: 6em;
     margin-top: 50px;
     margin-bottom: 40px;
     padding-bottom: 40px;
-    border-bottom: 10px dashed #d10e2f;
+    border-bottom: 3px dashed #da0b22;
 }
 
 h1 span {
-    color: #d10e2f;
+    color: #da0b22;
 }
 
 p {
     font-size: 1.5em;
     font-weight: 100;
-}
-
-h1, p {
-    color: #2c2c2c;
+    color: #f3e9ea;
 }
